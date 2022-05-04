@@ -1,0 +1,6 @@
+Favorite movie: The Matrix,
+Favorite serial: American Horror Story,
+Favorite food: French fries,
+Favorite season: Summer,
+The country you would like to visit: Spain
+
