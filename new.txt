@@ -1,0 +1,5 @@
+Full name: Ahanov Sultan Alievich,
+Age: 30,
+Pets: null,
+Salary: $1000
+
